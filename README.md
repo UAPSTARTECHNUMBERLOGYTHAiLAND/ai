@@ -1,1 +1,1 @@
-packages/ai/README.md
+SMARTGPT.Ai/README.md
